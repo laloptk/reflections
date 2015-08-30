@@ -1,0 +1,1 @@
+The staging area is different for my working directory and repository because it is a folder that stores files teporaryly giving the oportunity of modify the content of those files anytime without modifying the final commits. 
