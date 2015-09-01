@@ -1,3 +1,5 @@
 The staging area is different for my working directory and repository because it is a folder that stores files teporaryly giving the oportunity of modify the content of those files anytime without modifying the final commits. 
 
 The staging area can be used to do one commit per logical change, I don't know how yet, but I suppose someone at Udacity will tell me soon. 
+
+Branches can be very helpful when you want to make changes but dont want to modify the original files. Branches let you see the changes made and switch between the branch and the original and show those changes to whoever you want. Some situations when branching can be useful are when you want to make a lenguage version of the software, or want to add unofficial changes to it. 
