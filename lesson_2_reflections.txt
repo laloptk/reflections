@@ -1,1 +1,3 @@
 The staging area is different for my working directory and repository because it is a folder that stores files teporaryly giving the oportunity of modify the content of those files anytime without modifying the final commits. 
+
+The staging area can be used to do one commit per logical change, I don't know how yet, but I suppose someone at Udacity will tell me soon. 
