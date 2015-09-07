@@ -5,3 +5,5 @@ The staging area can be used to do one commit per logical change, I don't know h
 Branches can be very helpful when you want to make changes but dont want to modify the original files. Branches let you see the changes made and switch between the branch and the original and show those changes to whoever you want. Some situations when branching can be useful are when you want to make a lenguage version of the software, or want to add unofficial changes to it. 
 
 Diagrams as always, help orginize mentally the information, in the case of branches and commits, it can be very helpful, it helps to visualize the structure and be awere of where are things. 
+
+The result of merging to branches together gives us the functionaliti of both branches, and merges the changes made in the two of them, which is very helpful if you want to be sure your work is safely stored. 
