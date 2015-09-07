@@ -7,3 +7,5 @@ Branches can be very helpful when you want to make changes but dont want to modi
 Diagrams as always, help orginize mentally the information, in the case of branches and commits, it can be very helpful, it helps to visualize the structure and be awere of where are things. 
 
 The result of merging to branches together gives us the functionaliti of both branches, and merges the changes made in the two of them, which is very helpful if you want to be sure your work is safely stored. 
+
+Te pros of git's auttomatic merging are releted to the time it saves to you and the collaboration with other developers, asa setback, git is not so smart to recognize changes, and sometime you have to solve things mannually. 
