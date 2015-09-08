@@ -1,1 +1,6 @@
 Este es un prompt reflections
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+¿Por qué querrías siempre jalar los cambios manualmente en lugar de hacer que Git actualice automáticamente desde tu reposiotorio remoto?
+
+Las actualizaciones automáticas pueden sonar atractivas, sin embargo, cuando desarrollamos necesitamos más control que una actualización automática ya que es solamente el desarrollador el que sabe en qué momento las cosas van a funcionar bien y que pedazos de código son los que sirven. Al actualizar automáticamente se corre el riesgo de que se publiquen archivos que no esán completos en el mejor de los casos, o que de plano no funcionan. 
