@@ -4,3 +4,10 @@ Why might you want to always pull changes manually rather than having Git automa
 ¿Por qué querrías siempre jalar los cambios manualmente en lugar de hacer que Git actualice automáticamente desde tu reposiotorio remoto?
 
 Las actualizaciones automáticas pueden sonar atractivas, sin embargo, cuando desarrollamos necesitamos más control que una actualización automática ya que es solamente el desarrollador el que sabe en qué momento las cosas van a funcionar bien y que pedazos de código son los que sirven. Al actualizar automáticamente se corre el riesgo de que se publiquen archivos que no esán completos en el mejor de los casos, o que de plano no funcionan. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+¿Describe las diferencias entre forks, clones y branches. Cuándo usarías una en lugar de la otra?
+
+Fork and clone son muy similares: fork es una manera e clonar un repositorio dentro de GitHub, como si tu repositorio de GitHub fuera tu instalación local, y el repositorio de otro usuario que quieres clonar, es el repositorio remoto. En ese sentido, fork y branches también tienen cierta similitud, puesto que al hacer fork en algun repositorio, se crea una rama del software que tú puedes editar, la diferencia es que no podrás hacer merge, a menos (?) que el ususario que administra el repositorio te de permisos para hacerlo. En tu local host puedes hacer merge cuando tu quieras. 
+
+Clones y Branches son muy diferentes, puesto que tienen un objetivo diferente, una sirve para "copiar" un repositorio en otra parte y la otra sirve para crear caminos diferentes dentro del desarollo, tomando fragmentos de este para que funcione. 
